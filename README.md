@@ -1,0 +1,1 @@
+This repository contains a Python script that converts data stored in JSON format into PyTorch tensors. It is designed to easily load structured data from JSON files and transform them into a format ready for deep learning applications using the PyTorch framework.
